@@ -1,5 +1,5 @@
 /**
- * scraper - a set of utility methods to make scraping HTML easier
+ * scraper - a set of utility methods to make scraping HTML easier, what does that mean?
  */
 
 "use strict";
